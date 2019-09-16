@@ -34,5 +34,8 @@ You can check and modify the input and output in main.py.
 
 # Results
 
-
+![](https://github.com/tabsun/OnlyYou/blob/master/images/test2.jpg)
+![](https://github.com/tabsun/OnlyYou/blob/master/images/detection.jpg)
+![](https://github.com/tabsun/OnlyYou/blob/master/images/no_person.jpg)
+![](https://github.com/tabsun/OnlyYou/blob/master/images/no_dog.jpg)
 
